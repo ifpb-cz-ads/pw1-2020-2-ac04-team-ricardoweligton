@@ -4,6 +4,8 @@
 # igual a zero, o número não é primo. Observe que 0 e 1 não são primos e que 2 é o
 # único número primo que é par.
 
+print("\n--------- Questao 16 --------- \n")
+
 num = int(input("Digite um número: "))
 x = 3
 cont = 0

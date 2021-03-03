@@ -1,6 +1,8 @@
 # 18) Escreva um programa que calcule o resto da divisão inteira entre dois números.
 # Utilize apenas as operações de soma e subtração para calcular o resultado.
 
+print("\n--------- Questao 18 --------- \n")
+
 num1 = int(input("Digite um numero inteiro: "))
 num2 = int(input("Digite outro numero inteiro: "))
 

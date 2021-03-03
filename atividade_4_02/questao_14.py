@@ -12,6 +12,8 @@
 # Seu programa deve exibir o total das compras depois que o usuário digitar 0.
 # Qualquer outro código deve gerar a mensagem de erro “Código inválido”.
 
+print("\n--------- Questao 14 --------- \n")
+
 produtos = [["1", 0.50], ["2", 1.0], ["3", 4.0], ["5", 7.0], ["9", 8.0]]
 
 cod = "0"
